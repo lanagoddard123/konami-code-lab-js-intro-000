@@ -33,4 +33,3 @@ index = 0;
 
 init();
 // your code here
-
